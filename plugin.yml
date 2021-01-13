@@ -1,0 +1,6 @@
+name: ApplePay #플러그인의 이름
+version: 1.0.0  #플러그인의 버전
+api:            #플러그인이 지원하는 PMMP API
+  - 3.11.3
+author: imasterprox    #플러그인 제작자
+main: imasterprox\applepay\ApplePay #플러그인 메인 파일 경로 (파일의 끝에 .php는 생략함)
